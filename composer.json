@@ -10,7 +10,7 @@
     "require": {
         "php": "^8.2",
         "azuyalabs/yasumi": "^2.1",
-        "barryvdh/laravel-dompdf": "^2.1",
+        "barryvdh/laravel-dompdf": "^2.2",
         "diglactic/laravel-breadcrumbs": "^10.0",
         "doctrine/dbal": "^3.0",
         "guzzlehttp/guzzle": "^7.8",
